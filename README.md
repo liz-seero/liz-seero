@@ -1,4 +1,5 @@
 ### Hi there 👋
+### I am a recent graduate based on the East Coast. I have uploaded some websites, including my personal site and my Senior Thesis project. 
 
 <!--
 **liz-seero/liz-seero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
